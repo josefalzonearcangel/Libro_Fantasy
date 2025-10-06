@@ -1,6 +1,7 @@
 # Libro_Fantasy
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Il libro bellissimo
 <<<<<<< HEAD
 
@@ -9,10 +10,13 @@ IL libro
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 
 Il libro bellissimo Fantasy
 
 Jose Falzone
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
@@ -22,3 +26,5 @@ Jose Falzone
 2
 3
 >>>>>>> 5af99f28f42299710e254eedd60e9a92765f67bc
+=======
+>>>>>>> Stashed changes
